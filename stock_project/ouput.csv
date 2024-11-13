@@ -1,0 +1,3 @@
+,groceries,householdItems,personalCare
+0,"{'item': 'Apples', 'quantity': 3, 'unit': 'lbs'}","{'item': 'Paper Towels', 'quantity': 4, 'unit': 'rolls'}","{'item': 'Toothpaste', 'quantity': 2, 'unit': 'tubes'}"
+1,"{'item': 'Bananas', 'quantity': 6, 'unit': 'units'}","{'item': 'Trash Bags', 'quantity': 50, 'unit': 'bags'}","{'item': 'Shampoo', 'quantity': 1, 'unit': 'bottle'}"
